@@ -1,6 +1,6 @@
 - Hey Fellas!👋 It's me @chahmadbhatti
 - I’m a student of CS and currently I'm at beginner level. 👀
-- I’m currently learning C++ 🌱
+- I’m currently learning Basics 🌱
 - Collaborations can be done. 💞️
 - Tech related stuff, Why not!! 🤞
 
